@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://uheweasi.github.io/KvE/sitemap_index.txt
+Sitemap: https://uheweasi.github.io/TaG/sitemap_index.txt
+Sitemap: https://uheweasi.github.io/kqC/sitemap_index.txt
+Sitemap: https://uheweasi.github.io/xKG/sitemap_index.txt
